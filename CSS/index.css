@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  overflow:hidden;
 }
 li {
   list-style: none;
@@ -15,7 +16,7 @@ li {
 body {
   margin: 0;
   padding: 0;
-  background: url(../images/bg.jpg) no-repeat #000;
+  background: url(../images/bg11.jpg) no-repeat #000;
   background-size: cover;
   line-height: 1.15;
 }
